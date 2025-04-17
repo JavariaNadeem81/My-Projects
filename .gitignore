@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 Private_Projects/
-=======
-Private_Projects/
 
 # === Folders to Ignore ===
 Private_Projects/
@@ -25,4 +23,3 @@ desktop.ini
 
 # === VS Code Workspace Files ===
 *.code-workspace
->>>>>>> master
