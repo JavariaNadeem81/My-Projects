@@ -1,0 +1,24 @@
+Private_Projects/
+
+# === Folders to Ignore ===
+Private_Projects/
+.vscode/
+
+# === Python Bytecode ===
+*.pyc
+__pycache__/
+
+# === Log Files ===
+*.log
+
+# === Mac/Windows System Files (just in case) ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Environment Files (future-safe) ===
+.env
+*.env
+
+# === VS Code Workspace Files ===
+*.code-workspace
