@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Private_Projects/
 
 # === Folders to Ignore ===
@@ -8,9 +7,12 @@ Private_Projects/
 # === Python Bytecode ===
 *.pyc
 __pycache__/
+*.py[cod]
+*.pyo
 
 # === Log Files ===
 *.log
+*.bak
 
 # === Mac/Windows System Files (just in case) ===
 .DS_Store
@@ -23,3 +25,11 @@ desktop.ini
 
 # === VS Code Workspace Files ===
 *.code-workspace
+.vscode/
+
+# === Virtual Environments ===
+venv/
+.venv/
+
+# === Jupyter Notebook Checkpoints ===
+*.ipynb_checkpoints/
