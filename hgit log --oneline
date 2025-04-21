@@ -1,0 +1,23 @@
+[33mcac6ec7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Cleaned up .gitignore file
+[33meeb9725[m Your commit message
+[33m5bfae37[m Resolved merge conflicts and merged master into main
+[33mbe15b12[m Added a new line to Hello_Bunny.py
+[33m159ffea[m Test push to confirm correct remote
+[33m2f9528d[m Added secret_code.py and .gitignore to manage private files
+[33me13bdda[m Your commit message
+[33m17a1c8a[m Added Hello_Bunny.py and updated remove_duplicate_files.py
+[33m08b0d32[m First commit - added project files
+[33m22e27af[m Update README.md
+[33m4d612ab[m Update README.md
+[33m9b957eb[m new commit
+[33m7afb715[m Delete _config.yml
+[33me76a175[m Update README.md
+[33me0ebbd6[m new commit
+[33mc84b2e8[m Update README.md
+[33m3c14e94[m Set theme jekyll-theme-cayman
+[33m63d6c66[m new commit
+[33m2047e7b[m new models added
+[33mce60b39[m logistical model added
+[33m959183f[m new commit
+[33mf2c6126[m Add files via upload
+[33m37a077a[m Initial commit
